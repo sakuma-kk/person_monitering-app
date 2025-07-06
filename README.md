@@ -18,9 +18,9 @@
   言語:Python 3.10
  * 主要ライブラリ:
     * OpenCV
-    *PyTorch
-    *face_recognition
-    *requests
+    * PyTorch
+    * face_recognition
+    * requests
  * AIモデル: YOLOv5n
 
 
