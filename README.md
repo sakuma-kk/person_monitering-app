@@ -17,10 +17,10 @@
 # 使用技術
   言語:Python 3.10
   主要ライブラリ:
-    ・ OpenCV
-    ・PyTorch
-    ・face_recognition
-    ・requests
+    * OpenCV
+    *PyTorch
+    *face_recognition
+    *requests
   AIモデル: YOLOv5n
 
 
